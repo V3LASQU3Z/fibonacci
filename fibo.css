@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(28, 200, 223);
+}
+
+.uno {
+    text-align: center;
+    color: bisque;
+    background-color: rgba(38, 0, 255, 0.61);
+    padding: 10px 10px;
+    border-radius: 30px;
+    margin: 20px 500px;
+}
